@@ -2163,7 +2163,7 @@
   ],
   "Mezclas": [
     {
-      "Nombre": "La prueba 2",
+      "Nombre": "Mezcla 2",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2183,11 +2183,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 18,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 2
     },
     {
-      "Nombre": "La prueba 3",
+      "Nombre": "Mezcla 3",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2207,11 +2207,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 19,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 3
     },
     {
-      "Nombre": "La prueba 5",
+      "Nombre": "Mezcla 5",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2231,11 +2231,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 16,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 5
     },
     {
-      "Nombre": "La prueba 6",
+      "Nombre": "Mezcla 6",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2255,11 +2255,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 14,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 6
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 7",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2279,11 +2279,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 13,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 7
     },
     {
-      "Nombre": "La prueba 8",
+      "Nombre": "Mezcla 8",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2303,11 +2303,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 12,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 8
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 9",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2327,11 +2327,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 11,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 9
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 10",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2351,11 +2351,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 10,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 10
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 11",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2375,11 +2375,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 9,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 11
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 12",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2399,11 +2399,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 87,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 12
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 13",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2423,11 +2423,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 78,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 13
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 14",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2447,11 +2447,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 6,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 14
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 15",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2471,11 +2471,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 55,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 15
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 16",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2495,11 +2495,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 4,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 16
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 17",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2519,11 +2519,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 3,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 17
     },
     {
-      "Nombre": "La prueba 7",
+      "Nombre": "Mezcla 18",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2543,11 +2543,11 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 2,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 18
     },
     {
-      "Nombre": "La prueba 19",
+      "Nombre": "Mezcla 19",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2567,13 +2567,13 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 1,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 19,
       "title": "Prueba",
       "description": "descripción"
     },
     {
-      "Nombre": "La prueba 20",
+      "Nombre": "Mezcla 20",
       "Sabores": [
         {
           "Nombre": "Lemon",
@@ -2593,13 +2593,13 @@
       "Descripción": "Perfecta para antes de dormir",
       "User": "nestorrsuarezz",
       "Likes": 1,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 20,
       "title": "La modificada",
       "description": "Descripción de prueba"
     },
     {
-      "Nombre": "Prueba 4",
+      "Nombre": "Prueba 21",
       "Sabores": [
         {
           "Nombre": "Café",
@@ -2612,7 +2612,7 @@
       "Descripción": "Hay paginación",
       "User": "nestorrsuarezz",
       "Likes": 0,
-      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "cardImage": "https://img.freepik.com/vector-premium/ilustracion-dibujos-animados-taza-te-cara-sonriente_180868-3002.jpg?w=1480",
       "id": 21
     }
   ]
