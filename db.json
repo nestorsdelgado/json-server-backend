@@ -1,33 +1,2619 @@
 {
-  "projects": [
+  "Sabores": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "Marca": "Adalya",
+      "Sabor": "Love 66",
+      "Descripción": "Maracuyá, melón, sandía y menta",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "Marca": "Adalya",
+      "Sabor": "Berlin Nights",
+      "Descripción": "Melocotón y menta",
+      "id": 2
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Blue Dragon",
+      "Descripción": "Fruta del dragón, arándano y bombón helado",
+      "id": 3
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Blue Ice",
+      "Descripción": "Arándanos y hielo",
+      "id": 4
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Blue Yellow",
+      "Descripción": "Melón y arándanos",
+      "id": 5
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Chwng Wood Kiss",
+      "Descripción": "Chicle, canela y menta",
+      "id": 6
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Dragon Code",
+      "Descripción": "Cola y bebidas energéticas",
+      "id": 7
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Eskimo Lemon",
+      "Descripción": "Kiwi, limón y hielo",
+      "id": 8
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Gipsy Kings",
+      "Descripción": "Melón dulce, melocotón, sandía y limón",
+      "id": 9
+    },
+    {
+      "Marca": "Adalya",
+      "Sabor": "Green Lemon Kiss",
+      "Descripción": "Lima y menta",
+      "id": 10
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Double Apple",
+      "Descripción": "Manzana roja y verde con anís",
+      "id": 11
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Mint",
+      "Descripción": "Menta refrescante",
+      "id": 12
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Grape",
+      "Descripción": "Dulce sabor a uva",
+      "id": 13
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Lemon",
+      "Descripción": "Cítrico y refrescante",
+      "id": 14
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Watermelon",
+      "Descripción": "Sabor jugoso de sandía",
+      "id": 15
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Coconut",
+      "Descripción": "Exótico sabor a coco",
+      "id": 16
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Banana",
+      "Descripción": "Dulce sabor a plátano maduro",
+      "id": 17
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Vanilla",
+      "Descripción": "Suave y cremosa vainilla",
+      "id": 18
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Café",
+      "Descripción": "Intenso sabor a café recién hecho",
+      "id": 19
+    },
+    {
+      "Marca": "Al Fakher",
+      "Sabor": "Peach",
+      "Descripción": "Sabor jugoso y dulce de melocotón",
+      "id": 20
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Blue Mist",
+      "Descripción": "Arándanos dulces con una suave nota de menta",
+      "id": 21
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Pirate's Cave",
+      "Descripción": "Lima dulce con matices cítricos",
+      "id": 22
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Code 69",
+      "Descripción": "Mezcla de frutas cítricas y dulces",
+      "id": 23
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Sex on the Beach",
+      "Descripción": "Cóctel de frutas tropicales",
+      "id": 24
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Safari Melon Dew",
+      "Descripción": "Melón dulce y jugoso",
+      "id": 25
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Citrus Mist",
+      "Descripción": "Mezcla de cítricos con un toque de menta",
+      "id": 26
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Pink",
+      "Descripción": "Dulce mezcla de frutas y bayas",
+      "id": 27
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Queen of Sex",
+      "Descripción": "Combinación de frutas exóticas y cítricas",
+      "id": 28
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Tangerine Dream",
+      "Descripción": "Mandarina dulce y refrescante",
+      "id": 29
+    },
+    {
+      "Marca": "Starbuzz",
+      "Sabor": "Pina Colada",
+      "Descripción": "Piña y coco cremoso",
+      "id": 30
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "White Gummi Bear",
+      "Descripción": "Caramelo de osito de goma blanco, frutal y dulce",
+      "id": 31
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Lemon Mint",
+      "Descripción": "Limón ácido con menta fresca",
+      "id": 32
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Red Gummi Bear",
+      "Descripción": "Mezcla dulce de frutas rojas",
+      "id": 33
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Ambrosia",
+      "Descripción": "Combinación de melón, cítricos y crema",
+      "id": 34
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Blueberry Muffin",
+      "Descripción": "Sabor a muffin de arándanos recién horneado",
+      "id": 35
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Spiced Chai",
+      "Descripción": "Mezcla de té chai con especias dulces",
+      "id": 36
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Tropical Punch",
+      "Descripción": "Cóctel de frutas tropicales",
+      "id": 37
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Mint Chocolate Chill",
+      "Descripción": "Menta fresca con chocolate cremoso",
+      "id": 38
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Mojito Mojo",
+      "Descripción": "Inspirado en el cóctel mojito, con lima y menta",
+      "id": 39
+    },
+    {
+      "Marca": "Fumari",
+      "Sabor": "Prickly Pear",
+      "Descripción": "Sabor dulce y exótico de tuna (higo chumbo)",
+      "id": 40
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Cane Mint",
+      "Descripción": "Intenso sabor a menta dulce",
+      "id": 41
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Kashmir Peach",
+      "Descripción": "Exótica combinación de durazno con especias",
+      "id": 42
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "New Lemon-Lime",
+      "Descripción": "Refrescante mezcla de limón y lima",
+      "id": 43
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Horchata",
+      "Descripción": "Sabor cremoso inspirado en la bebida de arroz con canela",
+      "id": 44
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Maraschino Cherry",
+      "Descripción": "Cereza dulce y ligeramente amarga",
+      "id": 45
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Ololiuqui",
+      "Descripción": "Mezcla compleja de frutas y especias",
+      "id": 46
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Orange Soda",
+      "Descripción": "Naranja efervescente similar a un refresco",
+      "id": 47
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Pineapple",
+      "Descripción": "Dulce y jugoso sabor a piña",
+      "id": 48
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Static Starlight",
+      "Descripción": "Mezcla de uva y flores con un toque de menta",
+      "id": 49
+    },
+    {
+      "Marca": "Tangiers",
+      "Sabor": "Watermelon",
+      "Descripción": "Refrescante sabor a sandía madura",
+      "id": 50
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Dos Manzanas",
+      "Descripción": "Clásico sabor de manzana con anís",
+      "id": 51
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Menta",
+      "Descripción": "Sabor tradicional a menta",
+      "id": 52
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Fresa",
+      "Descripción": "Dulce sabor a fresa",
+      "id": 53
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Limón",
+      "Descripción": "Cítrico y refrescante",
+      "id": 54
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Uva",
+      "Descripción": "Sabor dulce a uva",
+      "id": 55
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Coco",
+      "Descripción": "Exótico sabor a coco",
+      "id": 56
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Melocotón",
+      "Descripción": "Dulce y jugoso sabor a melocotón",
+      "id": 57
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Plátano",
+      "Descripción": "Sabor a plátano maduro",
+      "id": 58
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Cereza",
+      "Descripción": "Dulce y ligeramente ácido sabor a cereza",
+      "id": 59
+    },
+    {
+      "Marca": "Nakhla",
+      "Sabor": "Vainilla",
+      "Descripción": "Suave y cremosa vainilla",
+      "id": 60
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Blueberry",
+      "Descripción": "Sabor a arándano dulce",
+      "id": 61
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Grape with Mint",
+      "Descripción": "Uva combinada con menta fresca",
+      "id": 62
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Lemon Mint",
+      "Descripción": "Limón ácido con menta refrescante",
+      "id": 63
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Watermelon",
+      "Descripción": "Sabor jugoso a sandía",
+      "id": 64
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Orange",
+      "Descripción": "Dulce y cítrico sabor a naranja",
+      "id": 65
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Peach",
+      "Descripción": "Sabor dulce a melocotón",
+      "id": 66
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Strawberry",
+      "Descripción": "Dulce y jugoso sabor a fresa",
+      "id": 67
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Two Apples",
+      "Descripción": "Mezcla de manzana roja y verde con un toque de anís",
+      "id": 68
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Cherry",
+      "Descripción": "Sabor dulce a cereza",
+      "id": 69
+    },
+    {
+      "Marca": "Mazaya",
+      "Sabor": "Pineapple",
+      "Descripción": "Dulce y exótico sabor a piña",
+      "id": 70
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Absolute Zero",
+      "Descripción": "Mezcla extremadamente refrescante de varias mentas",
+      "id": 71
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Cinnamon Roll",
+      "Descripción": "Sabor dulce de rollo de canela recién horneado",
+      "id": 72
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Watermelon Chill",
+      "Descripción": "Sandía jugosa con un toque de menta",
+      "id": 73
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Baja Blue",
+      "Descripción": "Mezcla de arándanos y frambuesas con un toque de menta",
+      "id": 74
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Cantaloupe Chill",
+      "Descripción": "Melón cantalupo con menta fresca",
+      "id": 75
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Lemon Chill",
+      "Descripción": "Limón ácido con menta refrescante",
+      "id": 76
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Mango Habanero",
+      "Descripción": "Dulce mango con un toque picante de habanero",
+      "id": 77
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Mint",
+      "Descripción": "Pura y refrescante menta",
+      "id": 78
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Passionfruit Mojito",
+      "Descripción": "Maracuyá, lima y menta inspirados en el cóctel mojito",
+      "id": 79
+    },
+    {
+      "Marca": "Social Smoke",
+      "Sabor": "Tiger's Blood",
+      "Descripción": "Mezcla de sandía, fresa y coco",
+      "id": 80
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#40 Black Nana",
+      "Descripción": "Mezcla de uva y menta, equilibrado y refrescante",
+      "id": 81
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#17 Piches",
+      "Descripción": "Dulce y jugoso sabor de melocotón",
+      "id": 82
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#101 Black Chai",
+      "Descripción": "Especias chai con un toque de dulzura",
+      "id": 83
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#23 Kiwimodo",
+      "Descripción": "Fusión exótica de kiwi y frutos tropicales",
+      "id": 84
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#55 Green Lmn",
+      "Descripción": "Refrescante mezcla de limón verde",
+      "id": 85
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#66 Cherry Pie",
+      "Descripción": "Sabor a tarta de cereza recién horneada",
+      "id": 86
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#77 Blueberry Muffin",
+      "Descripción": "Muffin de arándanos, dulce y cremoso",
+      "id": 87
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#88 Mango Tango",
+      "Descripción": "Mango maduro con un toque tropical",
+      "id": 88
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#99 Watermelon Splash",
+      "Descripción": "Jugoso sabor a sandía fresca",
+      "id": 89
+    },
+    {
+      "Marca": "NameLess",
+      "Sabor": "#111 Passion Delight",
+      "Descripción": "Maracuyá con notas dulces y ácidas",
+      "id": 90
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Pineapple Rings",
+      "Descripción": "Dulce y ácido anillos de piña confitada",
+      "id": 91
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Mango Lassi",
+      "Descripción": "Mango maduro con un toque cremoso",
+      "id": 92
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Berry Mix",
+      "Descripción": "Mezcla de bayas silvestres dulces y ácidas",
+      "id": 93
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Citrus Cream",
+      "Descripción": "Cítricos frescos con una base cremosa",
+      "id": 94
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Melonade",
+      "Descripción": "Melón dulce con limonada",
+      "id": 95
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Passion Fruit",
+      "Descripción": "Sabor tropical de maracuyá madura",
+      "id": 96
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Ginger Ale",
+      "Descripción": "Refrescante bebida de jengibre",
+      "id": 97
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Blueberry",
+      "Descripción": "Arándanos frescos y jugosos",
+      "id": 98
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Tropical Punch",
+      "Descripción": "Cóctel de frutas tropicales",
+      "id": 99
+    },
+    {
+      "Marca": "MustHave",
+      "Sabor": "Ice Pear",
+      "Descripción": "Pera fresca con un toque de mentol",
+      "id": 100
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Love 66",
+      "Descripción": "Maracuyá, melón, menta y otras frutas",
+      "id": 101
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Blueberry",
+      "Descripción": "Dulce y auténtico sabor de arándanos",
+      "id": 102
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Ice Green Apple",
+      "Descripción": "Manzana verde con frescor helado",
+      "id": 103
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Mojito",
+      "Descripción": "Lima, hierbabuena y azúcar, inspirado en el cóctel",
+      "id": 104
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Strawberry Banana",
+      "Descripción": "Fresa dulce combinada con plátano",
+      "id": 105
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Raspberry Lemonade",
+      "Descripción": "Mezcla refrescante de frambuesa y limón",
+      "id": 106
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Grapefruit Mint",
+      "Descripción": "Pomelo cítrico con un toque de menta",
+      "id": 107
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Tangerine Dream",
+      "Descripción": "Mandarina dulce y jugosa",
+      "id": 108
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Vanilla Cream",
+      "Descripción": "Vainilla suave y cremosa",
+      "id": 109
+    },
+    {
+      "Marca": "Serbetli",
+      "Sabor": "Blackberry",
+      "Descripción": "Dulce y ácido sabor de mora",
+      "id": 110
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Ice Grapes",
+      "Descripción": "Uvas dulces con un toque de frescor helado.",
+      "id": 111
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Capitán Pinto",
+      "Descripción": "Galleta.",
+      "id": 112
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Blueberry Frost",
+      "Descripción": "Arándanos jugosos con un frescor helado.",
+      "id": 113
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Tropical Sunset",
+      "Descripción": "Combinación de maracuyá, piña y coco.",
+      "id": 114
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Cherry Bomb",
+      "Descripción": "Dulce sabor a cereza con un toque ácido.",
+      "id": 115
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Lemon Mint",
+      "Descripción": "Mezcla refrescante de limón ácido y menta.",
+      "id": 116
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Watermelon Rush",
+      "Descripción": "Sandía jugosa con frescor helado.",
+      "id": 117
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Vanilla Delight",
+      "Descripción": "Dulce y cremosa vainilla.",
+      "id": 118
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Coconut Dream",
+      "Descripción": "Sabor tropical de coco con un toque dulce.",
+      "id": 119
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Apple Fusion",
+      "Descripción": "Mezcla de manzana roja y verde con un toque ácido.",
+      "id": 120
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Bloody Punch",
+      "Descripción": "Refrescante combinación de frutas cítricas y frutos rojos.",
+      "id": 121
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Ice Bomb",
+      "Descripción": "Explosión de menta y eucalipto con frescor extremo.",
+      "id": 122
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Tropic Heat",
+      "Descripción": "Mezcla de mango, piña y guayaba con un toque picante.",
+      "id": 123
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Lime Shock",
+      "Descripción": "Limón ácido con un toque efervescente.",
+      "id": 124
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Melon Breeze",
+      "Descripción": "Melón dulce con un frescor refrescante.",
+      "id": 125
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Cactus Fruit",
+      "Descripción": "Exótico sabor de fruta de cactus con un toque dulce.",
+      "id": 126
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Strawberry Ice",
+      "Descripción": "Fresas frescas con un final refrescante.",
+      "id": 127
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Vanilla Sky",
+      "Descripción": "Vainilla dulce y cremosa con notas suaves.",
+      "id": 128
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Cherry Cola",
+      "Descripción": "Sabor clásico de cola con cereza.",
+      "id": 129
+    },
+    {
+      "Marca": "Holster",
+      "Sabor": "Berry Mix",
+      "Descripción": "Mezcla de bayas dulces y ácidas con un toque de frescor.",
+      "id": 130
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Exotic Passion",
+      "Descripción": "Mezcla tropical de maracuyá y cítricos.",
+      "id": 131
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Frozen Berries",
+      "Descripción": "Combinación de frutos del bosque con un frescor helado.",
+      "id": 132
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Coconut Splash",
+      "Descripción": "Dulce y cremoso coco con un toque refrescante.",
+      "id": 133
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Grapefruit Mint",
+      "Descripción": "Pomelo ácido con un toque de menta.",
+      "id": 134
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Sweet Melon",
+      "Descripción": "Melón dulce y jugoso con un final refrescante.",
+      "id": 135
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Berry Explosion",
+      "Descripción": "Mezcla intensa de frutos rojos.",
+      "id": 136
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Tropical Fusion",
+      "Descripción": "Piña, mango y guayaba en una explosión tropical.",
+      "id": 137
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Peach Delight",
+      "Descripción": "Dulce melocotón con un final suave.",
+      "id": 138
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Lemon Frost",
+      "Descripción": "Cítricos helados con un toque dulce.",
+      "id": 139
+    },
+    {
+      "Marca": "Anda",
+      "Sabor": "Black Ice",
+      "Descripción": "Grosellas negras con un frescor potente.",
+      "id": 140
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Blueberry Mint",
+      "Descripción": "Arándano con un toque refrescante de menta.",
+      "id": 141
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Watermelon Chill",
+      "Descripción": "Sandía jugosa con un frescor helado.",
+      "id": 142
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Lemon Pie",
+      "Descripción": "Tarta de limón dulce con notas cítricas.",
+      "id": 143
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Mango Tango",
+      "Descripción": "Mezcla exótica de mangos maduros.",
+      "id": 144
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Peach Paradise",
+      "Descripción": "Melocotón dulce y jugoso.",
+      "id": 145
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Grape Fusion",
+      "Descripción": "Uvas negras con un matiz dulce.",
+      "id": 146
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Apple Cinnamon",
+      "Descripción": "Manzana fresca con un toque de canela.",
+      "id": 147
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Tropical Breeze",
+      "Descripción": "Combinación de frutas tropicales variadas.",
+      "id": 148
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Cherry Blossom",
+      "Descripción": "Cereza dulce con notas florales.",
+      "id": 149
+    },
+    {
+      "Marca": "Revoshi",
+      "Sabor": "Minty Fresh",
+      "Descripción": "Menta intensa y refrescante.",
+      "id": 150
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Blowtus",
+      "Descripción": "Galleta Lotus.",
+      "id": 151
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Bubblenciaga",
+      "Descripción": "Chicle Boomer.",
+      "id": 152
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Clitrus",
+      "Descripción": "Limón y menta.",
+      "id": 153
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Fellatio",
+      "Descripción": "Frutas del bosque con melón.",
+      "id": 154
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Green Lean",
+      "Descripción": "Lima y menta.",
+      "id": 155
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Kaffa Yayo",
+      "Descripción": "Crema de coco.",
+      "id": 156
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Kukubra Mule",
+      "Descripción": "Pepino con lima y menta.",
+      "id": 157
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Laoz",
+      "Descripción": "Cereza, arándanos y hielo.",
+      "id": 158
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Mambo Marabuja",
+      "Descripción": "Mango, maracuyá y hielo.",
+      "id": 159
+    },
+    {
+      "Marca": "FyL",
+      "Sabor": "Purple Lean",
+      "Descripción": "Uva y menta.",
+      "id": 160
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Perta on the Rocks",
+      "Descripción": "Pera y menta.",
+      "id": 161
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Zero Gravity",
+      "Descripción": "Limón y menta.",
+      "id": 162
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Wild Night Out",
+      "Descripción": "Tarta de limón.",
+      "id": 163
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Summer Fling",
+      "Descripción": "Arándano ácido y menta.",
+      "id": 164
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Dopomine",
+      "Descripción": "Mezcla de frutas.",
+      "id": 165
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Psych Out",
+      "Descripción": "Menta y zumo de piña.",
+      "id": 166
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "24 Karatine",
+      "Descripción": "Galleta y plátano.",
+      "id": 167
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "1st Love",
+      "Descripción": "Batido de sandía.",
+      "id": 168
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "One Night Stand",
+      "Descripción": "Fruta de la pasión y cítricos.",
+      "id": 169
+    },
+    {
+      "Marca": "Overdozz",
+      "Sabor": "Lusidrem",
+      "Descripción": "Sandía y menta helada.",
+      "id": 170
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Freak",
+      "Descripción": "Bebida energética.",
+      "id": 171
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Plum",
+      "Descripción": "Sandía.",
+      "id": 172
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Ke Koko",
+      "Descripción": "Coco.",
+      "id": 173
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Island",
+      "Descripción": "Plum cake de cereales con limón y menta.",
+      "id": 174
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Hurricane",
+      "Descripción": "Fruta del dragón.",
+      "id": 175
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Green",
+      "Descripción": "Manzana verde con un toque ácido.",
+      "id": 176
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Red Passion",
+      "Descripción": "Frutas rojas con un matiz dulce.",
+      "id": 177
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Blueberry Mint",
+      "Descripción": "Arándano con menta refrescante.",
+      "id": 178
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Tropical Mix",
+      "Descripción": "Mezcla de frutas tropicales variadas.",
+      "id": 179
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Lemon Ice",
+      "Descripción": "Limón helado con un toque dulce.",
+      "id": 180
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Sexy Sheba",
+      "Descripción": "Maracuyá, mango y hielo.",
+      "id": 181
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Guilty Gang",
+      "Descripción": "Limón y pera.",
+      "id": 182
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Hidden Hacker",
+      "Descripción": "Limón, mango y pera.",
+      "id": 183
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Plata o Plomo",
+      "Descripción": "Melón, granada y sandía.",
+      "id": 184
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Big Bagman",
+      "Descripción": "Mora, grosella negra, mentol y uva.",
+      "id": 185
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Capo Dei Capi",
+      "Descripción": "Frutas tropicales y un toque de menta.",
+      "id": 186
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "Don Pablo",
+      "Descripción": "Frutas cítricas y dulces con frescor.",
+      "id": 187
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "La Madrina",
+      "Descripción": "Frutas del bosque con un toque cremoso.",
+      "id": 188
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "El Patrón",
+      "Descripción": "Sabores exóticos con un final refrescante.",
+      "id": 189
+    },
+    {
+      "Marca": "Kartel",
+      "Sabor": "The Godfather",
+      "Descripción": "Frutas maduras con un toque de frescor.",
+      "id": 190
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Pomaye",
+      "Descripción": "Pomelo, maracuyá y hielo.",
+      "id": 191
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Melon Crush",
+      "Descripción": "Melocotón a la brasa.",
+      "id": 192
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Harlem Frap",
+      "Descripción": "Frappuccino de vainilla con canela.",
+      "id": 193
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Jhezz",
+      "Descripción": "Bolitas de queso.",
+      "id": 194
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Scattman",
+      "Descripción": "Caramelo toffee.",
+      "id": 195
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Camdown",
+      "Descripción": "Batido de melón cantalupo.",
+      "id": 196
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Coolio",
+      "Descripción": "Batido de plátano.",
+      "id": 197
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Babilonia",
+      "Descripción": "Tamarindo.",
+      "id": 198
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Habana",
+      "Descripción": "Tarta de naranja con crema de vainilla.",
+      "id": 199
+    },
+    {
+      "Marca": "Mr Shisha",
+      "Sabor": "Habibi",
+      "Descripción": "Pastel baklava (hojaldre con pistacho).",
+      "id": 200
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Paris Romantique",
+      "Descripción": "Piña, fresa, cactus y menta.",
+      "id": 201
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Tokio Desire",
+      "Descripción": "Limoncello, fresa, lima y menta.",
+      "id": 202
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "London Fog",
+      "Descripción": "Pomelo, rosa negra y menta dulce.",
+      "id": 203
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Amsterdam Lights",
+      "Descripción": "Bayas, fresa, cereza y menta.",
+      "id": 204
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "No Woman No Cry",
+      "Descripción": "Pera, fresa y menta.",
+      "id": 205
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "The Coldest Green",
+      "Descripción": "Lima con un frescor pronunciado.",
+      "id": 206
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Rio Kiss",
+      "Descripción": "Maracuyá, melocotón y menta.",
+      "id": 207
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "La Beirut",
+      "Descripción": "Café con caramelo.",
+      "id": 208
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Alhambra",
+      "Descripción": "Granada, bayas, manzana, fresa, cereza y menta.",
+      "id": 209
+    },
+    {
+      "Marca": "Blue Horse",
+      "Sabor": "Sputnik",
+      "Descripción": "Hielo, maracuyá y pomelo.",
+      "id": 210
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "African Crush",
+      "Descripción": "Arándano, cactus, kiwi, mango, melocotón y uva.",
+      "id": 211
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Black Box",
+      "Descripción": "Açaí con notas dulces y afrutadas.",
+      "id": 212
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Black Ninja",
+      "Descripción": "Menta y uva.",
+      "id": 213
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Blue Eyes",
+      "Descripción": "Arándano con un toque refrescante.",
+      "id": 214
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Cactus Splash",
+      "Descripción": "Cactus con notas verdes y frescas.",
+      "id": 215
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Colours Eighteen",
+      "Descripción": "Mezcla vibrante de frutas.",
+      "id": 216
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Crazy Chief",
+      "Descripción": "Melocotón con un toque loco.",
+      "id": 217
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Fanex Ex-Tic",
+      "Descripción": "Mango y fruta de la pasión.",
+      "id": 218
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Golden Anna",
+      "Descripción": "Dulce y jugosa piña.",
+      "id": 219
+    },
+    {
+      "Marca": "Aqua Mentha",
+      "Sabor": "Golden Leo",
+      "Descripción": "Limón con notas cítricas pronunciadas.",
+      "id": 220
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Urban Jungle",
+      "Descripción": "Frutas tropicales con un toque de frescor.",
+      "id": 221
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "City Lights",
+      "Descripción": "Cítricos y menta.",
+      "id": 222
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Alley Cat",
+      "Descripción": "Bayas silvestres con un matiz ácido.",
+      "id": 223
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Metro Rush",
+      "Descripción": "Frutas exóticas con un toque de menta.",
+      "id": 224
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Skyline Breeze",
+      "Descripción": "Melón y pepino con un frescor ligero.",
+      "id": 225
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Suburban Sunset",
+      "Descripción": "Durazno y frambuesa con notas dulces.",
+      "id": 226
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Downtown Delight",
+      "Descripción": "Manzana verde y canela.",
+      "id": 227
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Park Avenue",
+      "Descripción": "Pera y vainilla con un toque cremoso.",
+      "id": 228
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Rooftop Romance",
+      "Descripción": "Mezcla de frutos rojos con un fondo dulce.",
+      "id": 229
+    },
+    {
+      "Marca": "Streetsmoke",
+      "Sabor": "Underground Heat",
+      "Descripción": "Frambuesa, limón y menta con un frescor intenso.",
+      "id": 230
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Pikchu",
+      "Descripción": "Tarta de limón.",
+      "id": 231
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Gumba",
+      "Descripción": "Chocolate con naranja.",
+      "id": 232
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "FCK 66",
+      "Descripción": "Mezcla de frutas exóticas con un toque fresco.",
+      "id": 233
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Rosito",
+      "Descripción": "Gofre belga con sirope de fresa.",
+      "id": 234
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Veneto",
+      "Descripción": "Tiramisú.",
+      "id": 235
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Libuma",
+      "Descripción": "Cheesecake de mango.",
+      "id": 236
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Blue Lion",
+      "Descripción": "Arándanos y sandía fría.",
+      "id": 237
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Masala",
+      "Descripción": "Pan masala con especias.",
+      "id": 238
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Panana Van",
+      "Descripción": "Gomita de plátano.",
+      "id": 239
+    },
+    {
+      "Marca": "Al Waha",
+      "Sabor": "Amor",
+      "Descripción": "Melocotón, manzana y pera.",
+      "id": 240
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Eternal",
+      "Descripción": "Sabor a purito de vainilla.",
+      "id": 241
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Lambada",
+      "Descripción": "Mezcla de frutas tropicales con un toque refrescante.",
+      "id": 242
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Dancing Queen",
+      "Descripción": "Combinación de frutos rojos con un matiz dulce.",
+      "id": 243
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Ice Lemon",
+      "Descripción": "Limón helado con un toque ácido.",
+      "id": 244
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Blueberry Mint",
+      "Descripción": "Arándano con menta fresca.",
+      "id": 245
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Grape Fusion",
+      "Descripción": "Mezcla de uvas negras y verdes.",
+      "id": 246
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Mango Tango",
+      "Descripción": "Mango maduro con notas dulces.",
+      "id": 247
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Peach Delight",
+      "Descripción": "Melocotón jugoso con un toque suave.",
+      "id": 248
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Watermelon Chill",
+      "Descripción": "Sandía fresca con un matiz helado.",
+      "id": 249
+    },
+    {
+      "Marca": "Dozaj",
+      "Sabor": "Apple Cinnamon",
+      "Descripción": "Manzana dulce con canela aromática.",
+      "id": 250
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Tropical Storm",
+      "Descripción": "Mezcla de frutas tropicales con un toque de frescor.",
+      "id": 251
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Berry Blast",
+      "Descripción": "Combinación de bayas silvestres con un matiz dulce.",
+      "id": 252
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Citrus Punch",
+      "Descripción": "Cítricos variados con un toque ácido.",
+      "id": 253
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Minty Fresh",
+      "Descripción": "Menta intensa y refrescante.",
+      "id": 254
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Vanilla Sky",
+      "Descripción": "Vainilla suave y cremosa.",
+      "id": 255
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Cherry Bomb",
+      "Descripción": "Cereza madura con notas dulces.",
+      "id": 256
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Melon Madness",
+      "Descripción": "Melón dulce y jugoso.",
+      "id": 257
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Pineapple Twist",
+      "Descripción": "Piña tropical con un toque ácido.",
+      "id": 258
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Coconut Breeze",
+      "Descripción": "Coco suave con notas cremosas.",
+      "id": 259
+    },
+    {
+      "Marca": "Blaze",
+      "Sabor": "Cola Fusion",
+      "Descripción": "Refrescante sabor a cola con un matiz dulce.",
+      "id": 260
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "4 B",
+      "Descripción": "Lima, hielo y limón.",
+      "id": 261
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "5 Palm",
+      "Descripción": "Mezcla de frutas.",
+      "id": 262
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Ana Bahebak",
+      "Descripción": "Manzana dulce.",
+      "id": 263
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Big M",
+      "Descripción": "Lima, hielo, melocotón y limón.",
+      "id": 264
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Black Lebanese",
+      "Descripción": "Menta y uva.",
+      "id": 265
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Blaulicht",
+      "Descripción": "Bayas, arándano y frutos del bosque.",
+      "id": 266
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Blue Beast",
+      "Descripción": "Piña, arándano y zarzamora.",
+      "id": 267
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Blut gegen Blut",
+      "Descripción": "Fruta del dragón, hielo y limón.",
+      "id": 268
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Bruderherz",
+      "Descripción": "Fruta del dragón y hielo.",
+      "id": 269
+    },
+    {
+      "Marca": "Almassiva",
+      "Sabor": "Cabrio in Marbella",
+      "Descripción": "Melón y sandía.",
+      "id": 270
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Double Bubble",
+      "Descripción": "Sabor clásico de chicle con un toque nostálgico.",
+      "id": 271
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Cucumberita",
+      "Descripción": "Refrescante mezcla de pepino con un toque cítrico.",
+      "id": 272
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "What-A-Mint",
+      "Descripción": "Deliciosa combinación de chocolate y menta.",
+      "id": 273
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Pineapple",
+      "Descripción": "Sabor auténtico a piña madura, dulce y jugosa.",
+      "id": 274
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Chaitastic",
+      "Descripción": "Mezcla exótica de especias chai con un toque dulce.",
+      "id": 275
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Coco Roast",
+      "Descripción": "Sabor a coco tostado con notas dulces y ahumadas.",
+      "id": 276
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Le Mint",
+      "Descripción": "Equilibrada combinación de limón ácido y menta fresca.",
+      "id": 277
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Orange Swirl",
+      "Descripción": "Cremosa mezcla de naranja dulce con un toque de vainilla.",
+      "id": 278
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Chocolate Ice",
+      "Descripción": "Rico sabor a chocolate con una sensación refrescante de menta.",
+      "id": 279
+    },
+    {
+      "Marca": "Haze",
+      "Sabor": "Citrus Freeze",
+      "Descripción": "Combinación de cítricos variados con un toque helado.",
+      "id": 280
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Armageddon",
+      "Descripción": "Intensa mezcla de frutas tropicales con un toque ácido.",
+      "id": 281
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Doomsday",
+      "Descripción": "Combinación de bayas oscuras con un matiz dulce y fresco.",
+      "id": 282
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Nuclear Winter",
+      "Descripción": "Refrescante mezcla de menta y eucalipto, evocando una brisa helada.",
+      "id": 283
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Fallout",
+      "Descripción": "Sabor a manzana verde crujiente con un toque ácido.",
+      "id": 284
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Blackout",
+      "Descripción": "Mezcla de regaliz negro con notas dulces y amargas.",
+      "id": 285
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Pandemic",
+      "Descripción": "Combinación de frutas cítricas con un toque picante.",
+      "id": 286
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Aftermath",
+      "Descripción": "Dulce mezcla de melocotón y crema, suave y deliciosa.",
+      "id": 287
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Cataclysm",
+      "Descripción": "Intensa combinación de cereza negra y menta fresca.",
+      "id": 288
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Eclipse",
+      "Descripción": "Sabor a uva oscura con un matiz dulce y jugoso.",
+      "id": 289
+    },
+    {
+      "Marca": "Apocalypse",
+      "Sabor": "Revelation",
+      "Descripción": "Mezcla de frutas exóticas con un toque floral.",
+      "id": 290
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Prometheus",
+      "Descripción": "Combinación de plátano maduro, arándanos frescos y un toque frío.",
+      "id": 291
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Poseidon",
+      "Descripción": "Mezcla equilibrada de melón dulce y maracuyá exótica.",
+      "id": 292
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Mon Amour",
+      "Descripción": "Fusión de melón, sandía, fresa y un toque refrescante.",
+      "id": 293
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Ban Ban",
+      "Descripción": "Delicioso sabor a plátano combinado con dulce de leche cremoso.",
+      "id": 294
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Waterlon",
+      "Descripción": "Sabor auténtico a sandía fresca y jugosa.",
+      "id": 295
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Zeus",
+      "Descripción": "Menta intensa y refrescante que despierta los sentidos.",
+      "id": 296
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Ugly King",
+      "Descripción": "Mezcla de melocotón dulce y mango helado, perfecta para el verano.",
+      "id": 297
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Déjà Vu",
+      "Descripción": "Exótica combinación de flor de saúco y lemongrass, con notas cítricas y florales.",
+      "id": 298
+    },
+    {
+      "Marca": "Smyrna",
+      "Sabor": "Ay, Carmela!",
+      "Descripción": "Fusión de melón, naranja jugosa y arándanos frescos.",
+      "id": 299
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Na3ne",
+      "Descripción": "Menta fresca.",
+      "id": 300
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Meridian",
+      "Descripción": "Combinación de sandía, melón y manzana.",
+      "id": 301
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Lover",
+      "Descripción": "Mezcla de melón, bayas, especias y un toque de hielo.",
+      "id": 302
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Kush Na3ne",
+      "Descripción": "Infusión de CBD con menta.",
+      "id": 303
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Kush",
+      "Descripción": "Sabor a CBD puro.",
+      "id": 304
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Heaven",
+      "Descripción": "Frutas tropicales, melón y un toque de menta.",
+      "id": 305
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "French Riviera",
+      "Descripción": "Chicle con melón.",
+      "id": 306
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Cane Na3ne",
+      "Descripción": "Azúcar de caña combinado con menta.",
+      "id": 307
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Bahamas",
+      "Descripción": "Piña, melón y un toque de hielo.",
+      "id": 308
+    },
+    {
+      "Marca": "Dumanji",
+      "Sabor": "Tsunami",
+      "Descripción": "Mezcla de sandía, arándanos y menta.",
+      "id": 309
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Mango Tango",
+      "Descripción": "Una mezcla exótica de mangos maduros con un toque dulce y jugoso.",
+      "id": 310
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Blueberry Mint",
+      "Descripción": "Arándanos frescos combinados con menta refrescante.",
+      "id": 311
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Watermelon Chill",
+      "Descripción": "Sabor a sandía jugosa con un matiz helado.",
+      "id": 312
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Peach Paradise",
+      "Descripción": "Melocotón dulce y maduro que evoca la sensación de morder una fruta fresca.",
+      "id": 313
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Grape Fusion",
+      "Descripción": "Mezcla de uvas negras y verdes que proporciona un sabor rico y equilibrado.",
+      "id": 314
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Exotic Mix",
+      "Descripción": "Mezcla de frutas exóticas con un toque dulce.",
+      "id": 315
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Citrus Delight",
+      "Descripción": "Combinación cítrica de limón y naranja.",
+      "id": 316
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Mint Chill",
+      "Descripción": "Menta fresca combinada con hierbas aromáticas.",
+      "id": 317
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Tropical Punch",
+      "Descripción": "Piña, mango y coco en una mezcla tropical.",
+      "id": 318
+    },
+    {
+      "Marca": "Os",
+      "Sabor": "Vanilla Dream",
+      "Descripción": "Vainilla suave y cremosa con notas de caramelo.",
+      "id": 319
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Lemon Pie",
+      "Descripción": "Sabor inspirado en la clásica tarta de limón, combinando notas cítricas con un toque dulce y cremoso.",
+      "id": 320
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Minty Fresh",
+      "Descripción": "Menta intensa que ofrece una sensación refrescante y vigorizante.",
+      "id": 321
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Cherry Blossom",
+      "Descripción": "Cereza dulce con notas florales que recuerdan a los cerezos en flor.",
+      "id": 322
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Tropical Breeze",
+      "Descripción": "Combinación de frutas tropicales como piña, mango y papaya, creando una experiencia exótica.",
+      "id": 323
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Apple Cinnamon",
+      "Descripción": "Manzana fresca con un toque de canela, evocando el sabor de un pastel recién horneado.",
+      "id": 324
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Berry Mix",
+      "Descripción": "Dulce y jugosa combinación de frambuesa, mora y arándano.",
+      "id": 325
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Cola Ice",
+      "Descripción": "Sabor a refresco de cola con un toque helado.",
+      "id": 326
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Chocolate Mint",
+      "Descripción": "Chocolate negro con menta refrescante.",
+      "id": 327
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Peach Tea",
+      "Descripción": "Té de melocotón con un sabor suave y afrutado.",
+      "id": 328
+    },
+    {
+      "Marca": "Dsichinni",
+      "Sabor": "Caramel Latte",
+      "Descripción": "Dulce combinación de caramelo y café con leche.",
+      "id": 329
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Citrus Blast",
+      "Descripción": "Mezcla vibrante de cítricos como limón, naranja y lima, ofreciendo una explosión de frescura.",
+      "id": 330
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Berry Delight",
+      "Descripción": "Combinación de frutos del bosque como frambuesa, arándano y mora, con un matiz dulce y ácido.",
+      "id": 331
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Vanilla Sky",
+      "Descripción": "Vainilla suave y cremosa que proporciona una experiencia dulce y reconfortante.",
+      "id": 332
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Cola Lemon",
+      "Descripción": "Refrescante sabor a cola con un toque cítrico de limón, similar a una bebida gaseosa.",
+      "id": 333
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Tropical Storm",
+      "Descripción": "Frutas tropicales con un toque de frescor.",
+      "id": 334
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Green Apple",
+      "Descripción": "Manzana verde crujiente con un sabor ácido.",
+      "id": 335
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Bubblegum",
+      "Descripción": "Sabor a chicle clásico con un toque dulce.",
+      "id": 336
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Pineapple Crush",
+      "Descripción": "Piña tropical con un matiz ácido y refrescante.",
+      "id": 337
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Chocolate Bliss",
+      "Descripción": "Chocolate con notas de vainilla y caramelo.",
+      "id": 338
+    },
+    {
+      "Marca": "Chronos",
+      "Sabor": "Coconut Breeze",
+      "Descripción": "Coco dulce con un toque cremoso.",
+      "id": 339
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Hawaiian Punch",
+      "Descripción": "Combinación de frutas tropicales con un toque de frescor.",
+      "id": 340
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Mango Tango",
+      "Descripción": "Mezcla de mango maduro con notas cítricas.",
+      "id": 341
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Pineapple Paradise",
+      "Descripción": "Dulce piña tropical con un toque de coco.",
+      "id": 342
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Lemon Mint",
+      "Descripción": "Refrescante combinación de limón y menta.",
+      "id": 343
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Blueberry Frost",
+      "Descripción": "Arándano dulce con un toque helado.",
+      "id": 344
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Peach Nectar",
+      "Descripción": "Melocotón jugoso y dulce con notas afrutadas.",
+      "id": 345
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Cherry Ice",
+      "Descripción": "Cereza madura con un toque de frescura.",
+      "id": 346
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Strawberry Bliss",
+      "Descripción": "Fresas dulces con un matiz suave.",
+      "id": 347
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Coconut Chill",
+      "Descripción": "Coco cremoso con un toque de menta.",
+      "id": 348
+    },
+    {
+      "Marca": "Aloha",
+      "Sabor": "Cola Twist",
+      "Descripción": "Refrescante cola con un toque de limón y hielo.",
+      "id": 349
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Dark Cherry",
+      "Descripción": "Cereza negra intensa con notas dulces.",
+      "id": 350
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Lime Blast",
+      "Descripción": "Explosión de lima ácida con un toque fresco.",
+      "id": 351
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Mint Madness",
+      "Descripción": "Menta intensa y vigorizante.",
+      "id": 352
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Blueberry Rush",
+      "Descripción": "Arándanos jugosos con un matiz ácido.",
+      "id": 353
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Tropical Mix",
+      "Descripción": "Combinación de frutas tropicales con notas exóticas.",
+      "id": 354
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Melon Freeze",
+      "Descripción": "Melón dulce con un toque helado.",
+      "id": 355
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Berry Fusion",
+      "Descripción": "Mezcla de bayas con un toque cítrico.",
+      "id": 356
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Caramel Coffee",
+      "Descripción": "Café con leche y notas de caramelo dulce.",
+      "id": 357
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Coconut Vanilla",
+      "Descripción": "Coco con vainilla cremosa.",
+      "id": 358
+    },
+    {
+      "Marca": "Skull",
+      "Sabor": "Pineapple Ice",
+      "Descripción": "Piña tropical con un toque de frescor.",
+      "id": 359
+    },
+    {
+      "Marca": "Forever Gold",
+      "Sabor": "Pinkman",
+      "Descripción": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+      "id": 360
     }
   ],
-  "tasks": [
+  "Mezclas": [
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "Nombre": "La prueba 2",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 18,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 2
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "Nombre": "La prueba 3",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 19,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 3
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "Nombre": "La prueba 5",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 16,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 5
+    },
+    {
+      "Nombre": "La prueba 6",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 14,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 6
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 13,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 7
+    },
+    {
+      "Nombre": "La prueba 8",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 12,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 8
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 11,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 9
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 10,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 10
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 9,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 11
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 87,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 12
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 78,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 13
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 6,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 14
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 55,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 15
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 4,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 16
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 3,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 17
+    },
+    {
+      "Nombre": "La prueba 7",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 2,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 18
+    },
+    {
+      "Nombre": "La prueba 19",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 1,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 19,
+      "title": "Prueba",
+      "description": "descripción"
+    },
+    {
+      "Nombre": "La prueba 20",
+      "Sabores": [
+        {
+          "Nombre": "Lemon",
+          "Descripcion": "Cítrico y refrescante",
+          "id": 14
+        },
+        {
+          "Nombre": "Pinkman",
+          "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.",
+          "id": 360
+        }
+      ],
+      "Proporciones": [
+        60,
+        40
+      ],
+      "Descripción": "Perfecta para antes de dormir",
+      "User": "nestorrsuarezz",
+      "Likes": 1,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 20,
+      "title": "La modificada",
+      "description": "Descripción de prueba"
+    },
+    {
+      "Nombre": "Prueba 4",
+      "Sabores": [
+        {
+          "Nombre": "Café",
+          "Descripcion": "Intenso sabor a café recién hecho"
+        }
+      ],
+      "Proporciones": [
+        100
+      ],
+      "Descripción": "Hay paginación",
+      "User": "nestorrsuarezz",
+      "Likes": 0,
+      "cardImage": "/src/Images/foto-predeterminada-ticket.png",
+      "id": 21
     }
   ]
 }

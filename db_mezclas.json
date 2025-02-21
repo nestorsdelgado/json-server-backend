@@ -1,0 +1,40 @@
+{
+    "Mezclas": [
+        {
+            "Nombre": "La dormilona",
+            "Sabores": [
+                {"Nombre": "Lemon", "Descripcion": "Cítrico y refrescante", "Key": 14},
+                {"Nombre": "Pinkman", "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.", "Key": 360}],
+            "Proporciones": [60, 40],
+            "Descripción": "Perfecta para antes de dormir",
+            "User": "nestorrsuarezz",
+            "Likes": 0,
+            "card-image": "./Images/foto-predeterminada-ticket-png",
+            "Key": 1
+        },
+        {
+            "Nombre": "La dormilona 2",
+            "Sabores": [
+                {"Nombre": "Lemon", "Descripcion": "Cítrico y refrescante", "Key": 14},
+                {"Nombre": "Pinkman", "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.", "Key": 360}],
+            "Proporciones": [60, 40],
+            "Descripción": "Perfecta para antes de dormir",
+            "User": "nestorrsuarezz",
+            "Likes": 0,
+            "card-image": "./Images/foto-predeterminada-ticket-png",
+            "Key": 2
+        },
+        {
+            "Nombre": "La dormilona 3",
+            "Sabores": [
+                {"Nombre": "Lemon", "Descripcion": "Cítrico y refrescante", "Key": 14},
+                {"Nombre": "Pinkman", "Descripcion": "Pomelo Rosa y Fresas con Sirope de Frambuesa.", "Key": 360}],
+            "Proporciones": [60, 40],
+            "Descripción": "Perfecta para antes de dormir",
+            "User": "nestorrsuarezz",
+            "Likes": 0,
+            "card-image": "./Images/foto-predeterminada-ticket-png",
+            "Key": 3
+        }
+    ]
+}
